@@ -1,5 +1,9 @@
 # Docker Image with Github CLI
 
+```sh
+docker pull kelvintaywl/cimg_github
+```
+
 Built on top of CircleCI's base image: [`cimg/base`](https://hub.docker.com/r/cimg/base).
 
 Batteries included:
